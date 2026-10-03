@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo Verão 42 — Portal VIP",
+  "description": "Portal de Acesso VIP para alunas do Protocolo Verão 42. Hub central mobile-first com Método C.A.S.A, cardápio rotativo, buscador de trocas inteligentes, desafios anti-inchaço e suporte exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
